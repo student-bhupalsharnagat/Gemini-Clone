@@ -15,6 +15,7 @@ import send_icon from './send_icon.png'
 import gemini_icon from './gemini_icon.png'
 
  import user_img from './user_img.png'
+ import mic_gif from './mic.gif'
 
 
 export const assets = {
@@ -34,7 +35,7 @@ export const assets = {
     send_icon,
     gemini_icon,
   
-    user_img
-  
+    user_img,
+    mic_gif,
  
 }

@@ -156,6 +156,15 @@
   line-height: 1.8;
 }
 @media (max-width: 600px) {
+
+
+
+
+
+
+
+
+
   .main-bottom input {
     /* flex: none; */
     width: 150px;
@@ -290,7 +299,11 @@ right: 25px;
 
 
 @media (max-height:670px) {
+  .search-box{
+position: relative;
+bottom: 40px;
 
+  }
   
 .main .card{
 
@@ -298,26 +311,16 @@ right: 25px;
 
 .main .cards{
   position: relative;
-  bottom: 70px;
+  bottom: 50px;
 }
 
 
 .main-bottom{
-  margin-bottom: 180px;
+  margin-bottom: 100px;
 }
   .result{
     
-height: 100vh;   
-
+max-height: 100vh;   
   
   }
-
-
-  .search-box{
-position: relative;
-top: 30px;
-
-  }
-
-
 }
