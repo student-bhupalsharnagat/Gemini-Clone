@@ -106,7 +106,7 @@ const Main = () => {
                 src={
                   isListening
                     ? "/src/assets/mic.gif"
-                    : "./src/assets/mic_icon.png"
+                    : "/src/assets/mic_icon.png"
                 }
                 onClick={handleClick}
               />
