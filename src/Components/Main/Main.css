@@ -273,3 +273,51 @@ position: relative;
 right: 25px;
 } 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-height:670px) {
+
+  
+.main .card{
+
+}
+
+.main .cards{
+  position: relative;
+  bottom: 70px;
+}
+
+
+.main-bottom{
+  margin-bottom: 180px;
+}
+  .result{
+    
+height: 100vh;   
+
+  
+  }
+
+
+  .search-box{
+position: relative;
+top: 30px;
+
+  }
+
+
+}

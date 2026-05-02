@@ -88,7 +88,7 @@ const MODEL_NAME = "models/gemini-2.5-flash-lite"
 // const API_KEY = "AIzaSyAdzK4GzqCYd2mFMz4FDBwVQsGIKvlUKAk";
 
 
-const API_KEY = "AIzaSyDuNW0bDMztz3-a2EjpBm_xAWs74eNHQTY";
+const API_KEY ="AIzaSyAaG_YCkUhCyfCiHLzq9oBZd27Z_h68pTc"
 
 
 
