@@ -7,7 +7,7 @@ One of the key features of this project is voice input support, where users can 
 
 The UI is clean and responsive, designed using modern frontend technologies.
 
-✨ Features
+# ✨ Features
 💬 Real-time AI chat interface
 🎤 Voice input (Speech-to-Text)
 ⚡ Fast and responsive UI
@@ -25,7 +25,7 @@ Web Speech API (for voice input)
 Google AI Studio API (for AI responses)
 
 
-🧠 Key Learnings
+# 🧠 Key Learnings
 Handling API integration in React
 Working with browser-based speech recognition
 Managing component state effectively
@@ -38,7 +38,7 @@ Deploying React apps on Vercel
 https://gemini-clone-brown-nine.vercel.app
 
 
-📸 Screenshots-
+# 📸 Screenshots-
 
 <img width="1365" height="767" alt="Screenshot 2026-05-04 144443" src="https://github.com/user-attachments/assets/fd0fb517-ea44-4d68-9496-ed74f0edb7e5" />
 
@@ -48,7 +48,7 @@ https://gemini-clone-brown-nine.vercel.app
 <img width="1365" height="767" alt="Screenshot 2026-05-04 144524" src="https://github.com/user-attachments/assets/508c3995-bac1-436c-b1e2-ab17d81ed9ab" />
 
 
-Responsive Design-
+# Responsive Design-
 
 
 
