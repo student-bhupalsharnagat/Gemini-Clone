@@ -21,7 +21,7 @@ import gemini_icon from './gemini_icon.png'
 
 
 
-import microphone_icon from './mic_icon.png'
+
 
 export const assets = {
     history_icon,
@@ -43,6 +43,6 @@ export const assets = {
     user_img,
     mic_gif,
  
-microphone_icon
+
 
 }

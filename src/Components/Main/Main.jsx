@@ -103,11 +103,40 @@ const Main = () => {
             <div>
               <img src={assets.gallery_icon} alt="" />
               <img
-                src={
-                  isListening
-                    ? "/src/assets/mic.gif"
-                    : "/src/assets/microphone_icon.png"
-                }
+
+
+
+
+
+
+
+
+   src={isListening ? assets.mic_gif : assets.mic_icon}
+
+
+
+
+
+
+
+                // src={
+                //   isListening
+                //     ? "/src/assets/mic.gif"
+                //     : "/src/assets/microphone_icon.png"
+                // }
+
+
+
+
+
+
+
+
+
+
+
+
+
                 onClick={handleClick}
               />
               {input && !finalOutput ? (
